@@ -8,6 +8,9 @@ JAVAFX PRACTICE CODES
 <img width="304" alt="image" src="https://github.com/mpmpranavraj/JavaFX-/assets/169636675/4458b392-2718-41ee-93b7-8f3f507a470c">
 </br>
 3.Scene Switching in  JavaFX </br>
+<img width="449" alt="image" src="https://github.com/mpmpranavraj/JavaFX-/assets/169636675/4a4c2dfc-8354-4234-8d67-1cfe4a161baa">
+<img width="448" alt="image" src="https://github.com/mpmpranavraj/JavaFX-/assets/169636675/fbea0455-e8f9-4418-88e0-3fc88402de69">
+
 
 
 
